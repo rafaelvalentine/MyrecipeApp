@@ -1,0 +1,10 @@
+.recipe-app-div .heading,
+.recipe-app-div .text {
+    text-align: center;
+}
+
+.recipe-app-div .recipe-content-div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
